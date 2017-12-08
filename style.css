@@ -1,0 +1,62 @@
+
+
+#navigation li a{
+
+	font-size:2rem;
+	
+	color:black;
+	
+	border: 2px solid antiquewhite;
+	
+	margin-left: 5rem;
+	
+	box-shadow:2px 2px 2px 2px black;
+
+}
+
+
+
+#navigation li a:hover{
+	
+	border-bottom:5px solid antiqueblue;
+	
+	background-color: white;
+	
+	font-size: 2rem;
+
+}
+
+
+
+
+#hide h2{
+	
+	font-family: 'Berkshire Swash', cursive;
+	
+	position: fixed;
+	
+	margin-top: -60px;
+	
+	background-color: rgba(255,255,255,0.8);
+
+}
+
+
+
+#b1
+{
+
+	background-color:orange;
+
+}
+
+
+
+#b1 h1
+{
+	
+	font-family: 'Fondamento', cursive;
+	
+
+}
+
